@@ -1,0 +1,7 @@
+estudante;2023;cartão de crédito;Engenharia Informática;Polo II
+docente;2010;referência multibanco;2010;FCTUC, FMUC
+naodocente;2007;referência multibanco;2007;Serviços académicos
+estudante;2024;cartão de crédito;Engenharia Ambiental;Polo II
+docente;2014;cartão de crédito;2013;FDUC, FEUC
+naodocente;2007;referência multibanco;2007;Serviços financeiros
+estudante;2025;cartão de crédito;Medicina;Polo III

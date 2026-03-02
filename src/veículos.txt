@@ -1,0 +1,10 @@
+bicicleta;1001;40.203,-8.410;false
+bicicleta;1002;40.210,-8.395;true
+bicicleta;1003;40.220,-8.420;false
+trotinete;2001;40.205,-8.415;78;false
+trotinete;2002;40.208,-8.430;55;true
+trotinete;2003;40.215,-8.440;90;false
+ebike;3001;40.230,-8.400;65;false
+ebike;3002;40.240,-8.420;40;true
+ebike;3003;40.250,-8.410;80;false
+ebike;3004;40.260,-8.435;50;true
