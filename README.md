@@ -36,9 +36,7 @@ The system was developed as part of an academic project and applies object-orien
 ---
 
 ## ▶ How to Run
-
 1. Open the project and navigate to the `src` folder.
-2. Compile all Java files:
-
+2. Compile:
 ```bash
 javac *.java
